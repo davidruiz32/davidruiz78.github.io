@@ -1,0 +1,71 @@
+body {
+    background-color: #fdf6e3; 
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 0;
+}
+
+
+h1 {
+    text-align: center;
+    color: #fafafa;
+    font-size: 2.5em;
+    margin-top: 20px;
+    background-image: url(artificial-intelligence-circuit-electric-line-260nw-2495924357.webp);
+    border-radius: 50px; 
+    
+}
+
+
+h2 {
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+    background-color: rgb(9, 73, 129);
+    width: 1000px;
+    border-radius: 50px; 
+}
+
+
+
+
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
+    
+    
+}
+p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+dl {
+    margin: 10px 0;
+}
+
+dt {
+    font-weight: bold;
+    color: #1a3d7c;
+    margin-top: 10px;
+}
+
+dd {
+    margin-left: 15px;
+}
+
+
+strong {
+    color: #1a3d7c;
+}
+
+
+
+    
+
